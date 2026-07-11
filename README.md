@@ -47,4 +47,4 @@ Open `Heart_Disease_Prediction.ipynb` and run the notebook.
 
 * GitHub: https://github.com/Chandan-codex
 * LinkedIn: https://www.linkedin.com/in/chandan-patra-51125331b/
-# Heart-Disease-Predictor
+
